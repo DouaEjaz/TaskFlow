@@ -1,0 +1,8 @@
+<?php
+
+// Copy this file to config/params-local.php and put your own key below.
+// params-local.php is listed in .gitignore, so it will NOT be uploaded to GitHub.
+
+return [
+    'geminiApiKey' => 'PASTE_YOUR_OWN_GEMINI_API_KEY_HERE',
+];
